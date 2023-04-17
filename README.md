@@ -1,4 +1,4 @@
-#for autoGPT-in-Colab
+# For autoGPT-in-Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GordonLai/autoGPT-in-Colab/blob/main/autoGPT.ipynb)
 
